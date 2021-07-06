@@ -63,6 +63,7 @@ have been violations of the code of conduct, please reach out to Ockam directly.
   * [January 27](2021/01-27.md)
   * [March 31](2021/03-31.md)
   * [April 28](2021/04-28.md)
+  * [June 30](2021/06-30.md)
 
 <details open>
 <summary>2020</summary>
